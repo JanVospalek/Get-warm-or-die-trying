@@ -1,0 +1,2 @@
+room_goto(Room3)
+audio_stop_sound(snd_FallingPlane)
